@@ -9,4 +9,4 @@ O “VAMOS JOGAR” permitirá que amantes de esportes coletivos possam se conhe
 ## Tecnologias
 - NODE JS
 - REACT JS
-- MySQL 
+- MongoDB 
